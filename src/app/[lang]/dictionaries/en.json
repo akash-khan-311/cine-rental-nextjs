@@ -1,0 +1,13 @@
+{
+    "Release": "Release Date",
+    "vote": "Avarage Vote",
+    "vote_count": "Vote Count",
+    "popularity": "Popularity",
+    "stream": "Stream In HD",
+    "download": "Download In HD",
+    "trending": "Trending",
+    "new_release": "New Release",
+    "comming_soon": "Comming Soon",
+    "favourite": "Favourite",
+    "watchLater": "Watch Later"
+}

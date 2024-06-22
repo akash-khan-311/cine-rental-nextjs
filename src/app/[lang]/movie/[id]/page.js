@@ -1,9 +1,11 @@
 import Image from "next/image";
+import { getDictionary } from "../../dictionaries";
 
-const MovieDetailsPage = async ({ params: { id } }) => {
+const MovieDetailsPage = async ({ params: { id }, searchParams: { lang } }) => {
   const response = await fetch(`http://localhost:3000/api/movies/${id}`);
   const movie = await response.json();
-  console.log(movie);
+  const dictinary = getDictionary(lang)
+  console.log(lang)
   return (
     <section>
       <div>

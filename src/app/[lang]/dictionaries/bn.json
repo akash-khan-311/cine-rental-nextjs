@@ -1,0 +1,13 @@
+{
+    "Release": "মুক্তির তারিখ",
+    "vote": "গড় ভোট",
+    "vote_count": "ভোটের সংখ্যা",
+    "popularity": "জনপ্রিয়তা",
+    "stream": "এইচডিতে স্ট্রিম",
+    "download": "এইচডিতে ডাউনলোড করুন",
+    "trending": "চলমান",
+    "new_release": "নতুন মুক্তিপ্রাপ্ত",
+    "comming_soon": "শীঘ্রই আসছে",
+    "favourite": "প্রিয়",
+    "watchLater": "পরে দেখুন"
+}
