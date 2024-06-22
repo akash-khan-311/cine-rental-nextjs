@@ -1,4 +1,4 @@
-import { getMovieById } from "@/app/lib/data";
+import { getMovieById } from "@/lib/data";
 import { NextResponse } from "next/server";
 
 export const GET = async (request,{ params }) => {

@@ -1,4 +1,4 @@
-import { getAllMovies } from "@/app/lib/data";
+import { getAllMovies } from "@/lib/data";
 import { NextResponse } from "next/server";
 
 export const GET = async () => {
