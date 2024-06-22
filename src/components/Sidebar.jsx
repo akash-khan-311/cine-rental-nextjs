@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const Sidebar = () => {
   return (
-    <aside className="">
+    <aside className="sticky  max-h-screen top-24 ">
       <ul className="space-y-2">
         <li>
           <Link
